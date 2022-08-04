@@ -1,2 +1,1 @@
 import pr
-do.pr
